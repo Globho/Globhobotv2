@@ -5,14 +5,14 @@ import { fileURLToPath } from 'url'
 //inserisci il tuo o i tuoi numeri 
 
 global.owner = [
-  ['393518398856', 'nobody|']
+  ['19207792466', 'nobody|']
 
 ] //inserisci il tuo o i tuoi numeri 
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['39xxxx'] 
-global.prems = ['39xxxx', '39xxxx']
+global.mods = ['19207792466'] 
+global.prems = ['19207792466', '00000000000']
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -51,8 +51,8 @@ global.imagen1 = ['./media/menu1.jpg']
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 // MODIFICA IL NOME DEGLI Sticker WM
-global.packname = 'SUPERFABRIBOT-MD'
-global.author = 'SUPERFABRIBOT-MD'
+global.packname = 'GLOBHOBOT-MD'
+global.author = 'GLOBHOBOT-MD'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 //INSERISCI O MODIFICA I TUOI CONTATTI
@@ -61,18 +61,18 @@ global.fgig = 'https://github.com/fabriziodee/superbot2023'
  
 global.yt = ''
 
-global.fgpyp = 'https://www.tiktok.com/@3r1z10'
+global.fgpyp = 'https://www.tiktok.com/@globho?lang=en'
 
 global.faceb = ''
 
 global.vs = 'Mi0 2.1'
 
-global.lb = 'SUPERFABRIBOT-MD'
+global.lb = 'GLOBHOBOT-MD'
 global.lolibot = lb
 
-global.dygp = 'https://chat.whatsapp.com/BHZDSUDHuwWEed4Ut8aeUQ' //grupo del bot
+global.dygp = 'https://chat.whatsapp.com/JFijjf3Ca9XGUqQ2vY3Qbv' //grupo del bot
 
-global.nna = 'https://chat.whatsapp.com/BHZDSUDHuwWEed4Ut8aeUQ' //UPDATE
+global.nna = 'https://chat.whatsapp.com/JFijjf3Ca9XGUqQ2vY3Qbv' //UPDATE
 
 global.fglog = 'https://telegra.ph/file/1861aab98389b13db8588.png' 
 
@@ -81,7 +81,7 @@ global.maxwarn = '4' // máxima advertencias
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.wm = 'SUPERFABRIBOT-MD'
+global.wm = 'GLOBHOBOT-MD'
 global.wait = '*⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'

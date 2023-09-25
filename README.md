@@ -1,31 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&center=true&width=435&lines=%E2%98%81%EF%B8%8F%F0%9D%91%B4%F0%9D%92%90%F0%9D%92%90%F0%9D%92%8F%F0%9D%91%AA%F0%9D%92%8D%F0%9D%92%90%F0%9D%92%96%F0%9D%92%85%F0%9D%92%94%E2%87%9D%F0%9D%90%81%E1%8F%AB%F0%9D%90%93%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
-
-
- <p align="center">
-<img width="" src="https://img.shields.io/github/repo-size/fabri115/botwhaita?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor">
-</p>
-
-```SE MI VUOI BENE, DONA PER FARMI COMPRARE LE API KEYS VIP ```
-[`paypal > fabri115` > `https://www.paypal.me/Fabri115i`](https://www.paypal.com/donate?campaign_id=KTBZ6VBY927VA&v=1&utm_source=unp&utm_medium=email&utm_campaign=RT001640&utm_unptid=23c96436-0a01-11ee-8170-3cfdfeec12a8&ppid=RT001640&cnac=IT&rsta=it_IT%28it-IT%29&cust=3ZENKTZ28SZAE&unptid=23c96436-0a01-11ee-8170-3cfdfeec12a8&calc=f7960484092de&unp_tpcid=donate-button-campaign-created&page=main%3Aemail%3ART001640&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.177.0&xt=104038%2C127632)
-
-
-
-
-<h1 align="center">
-<p>
-<img src= "https://i.imgur.com/BqCg8Ao.png" alt="BOT" width="720">
-</p>
-
-### `—◉ ⚙️ CONFIGURAZIONE 𝑴☁️ ⚙️`
-`USA IL BOTTONE PER ESEGUIRE IL FORK`
-  
-  <a href="https://github.com/Fabri115/BotWhaIta/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
-<br>
-- CLONARE LA REPOSITORY [qui](https://github.com/Fabri115/BotWhaIta/fork)
-- CAMBIARE NUMERO DEL PROPRIETARIO [qui](https://github.com/Fabri115/BotWhaIta/blob/master/config.js)
- 
- 
-  
 ### `—◉ 💥 ATTIVA SU KOYEB 💥`
 
 [![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Fabri115/BotWhaIta&branch=master&name=mysticbot)
